@@ -1,0 +1,19 @@
+{
+  "name": "non-useful-rainbow-counter",
+  "version": "1.0.0",
+  "description": "just messing around",
+  "main": "closingForColors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naughtnowwhen/non-useful-rainbow-counter.git"
+  },
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naughtnowwhen/non-useful-rainbow-counter/issues"
+  },
+  "homepage": "https://github.com/naughtnowwhen/non-useful-rainbow-counter#readme"
+}
