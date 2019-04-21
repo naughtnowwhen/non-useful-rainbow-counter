@@ -23,6 +23,7 @@
     "concurrently": "^4.1.0",
     "dotenv": "^7.0.0",
     "express": "^4.16.4",
+    "node": "^11.14.0",
     "typescript": "^3.4.4"
   }
 }
